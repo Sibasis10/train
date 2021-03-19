@@ -1,2 +1,4 @@
 Welcome to GIT.
 This is a sample.
+Hello world.
+Where are you
